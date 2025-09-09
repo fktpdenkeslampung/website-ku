@@ -1,0 +1,37 @@
+
+## Cara Menggunakan
+
+1. Download semua file di atas
+2. Ekstrak ke folder lokal
+3. Buka file `index.html` di browser
+
+## Akun Demo
+
+Untuk mencoba website ini, gunakan salah satu akun berikut:
+
+- **Admin**: Username: `admin`, Password: `admin123`
+- **Klinik**: Username: `klinik`, Password: `klinik123`
+- **User**: Username: `user`, Password: `user123`
+
+## Fitur Keamanan
+
+- Data login disimpan di localStorage (jika didukung browser)
+- Validasi input pada form login
+- Tidak ada data sensitif yang dikirim ke server (karena ini versi demo)
+
+## Kompatibilitas Browser
+
+Website ini kompatibel dengan hampir semua browser modern:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+- Safari
+- Browser lain yang mendukung JavaScript ES6
+
+## Lisensi
+
+Website ini dibuat untuk tujuan edukasi dan demo. Anda bebas menggunakannya, memodifikasinya, dan mendistribusikannya sesuai kebutuhan.
+
+## Kontak
+
+Untuk informasi lebih lanjut, kunjungi: www.FKTPDenkesyahLampung.com
